@@ -13,7 +13,7 @@ This project is a machine learning-based stock price prediction system built wit
 
 Clone the repository:
 ```sh
-git clone https://github.com/YOUR_USERNAME/Stock-Price-Prediction.git
+git clone https://github.com/T-ABISHEK/Stock-Price-Prediction.git
 cd Stock-Price-Prediction
 ```
 
